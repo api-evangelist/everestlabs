@@ -1,8 +1,13 @@
 aid: everestlabs
 name: EverestLabs
-description: 'EverestLabs is a company surfaced as a portfolio company of sierra-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'EverestLabs builds AI, computer vision, and robotics for the recycling
+  industry. Its RecycleOS platform identifies, tracks, and sorts recoverable materials
+  on the conveyor lines of Materials Recovery Facilities (MRFs), giving recyclers,
+  reclaimers, and packaging manufacturers analytics, bale tracing, plant optimization,
+  and compliance reporting to increase recovery rates, cut labor costs, and verify
+  recycled content. Headquartered in Fremont, California and backed by Sierra Ventures.
+  EverestLabs does not currently publish a public developer API, SDK, or developer
+  portal; this profile captures its public web, GitHub, and discovery surface.'
 url: https://raw.githubusercontent.com/api-evangelist/everestlabs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - sierra-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: http://static1.squarespace.com/static/63bda5893fe1997b791a588a/t/658b448a5f037266c35eda3b/1703625870214/logo-black-pading.png?format=1500w
 tags:
 - Company
-- Ai
+- Artificial Intelligence
+- Robotics
+- Recycling
+- Computer Vision
+- Sustainability
+- Waste Management
+- Analytics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +47,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://everestlabs.ai/
+  url: https://www.everestlabs.ai/
+- type: Blog
+  url: https://www.everestlabs.ai/insights
+- type: Support
+  url: https://www.everestlabs.ai/contact
+- type: PrivacyPolicy
+  url: https://www.everestlabs.ai/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/everestlabsai
+- type: LLMsTxt
+  url: llms/everestlabs-llms.txt
+- type: DomainSecurity
+  url: security/everestlabs-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
