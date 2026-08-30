@@ -2,10 +2,6 @@
   "repo": "everestlabs",
   "feeds": [
     {
-      "source": "https://www.everestlabs.ai/home?format=rss",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://www.everestlabs.ai/",
       "feed_url": "https://www.everestlabs.ai/",
       "title": "",
@@ -14,5 +10,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-22T20:20:02Z"
+  "fetched": "2026-08-30T22:33:40Z"
 }
