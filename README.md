@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EverestLabs is a company surfaced as a portfolio company of sierra-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+EverestLabs builds AI, computer vision, and robotics for the recycling industry. Its RecycleOS platform identifies, tracks, and sorts recoverable materials on the conveyor lines of Materials Recovery Facilities (MRFs), giving recyclers, reclaimers, and packaging manufacturers analytics, bale tracing, plant optimization, and compliance reporting to increase recovery rates, cut labor costs, and verify recycled content. Headquartered in Fremont, California and backed by Sierra Ventures. EverestLabs does not currently publish a public developer API, SDK, or developer portal; this profile captures its public web, GitHub, and discovery surface.
 
-Backed by: sierra-ventures — https://everestlabs.ai/
+**Areas:** Company · Artificial Intelligence · Robotics · Recycling · Computer Vision · Sustainability · Waste Management · Analytics
+
+## EverestLabs on APIs.io
+
+Everything profiled for EverestLabs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/everestlabs/](https://apis.io/providers/everestlabs/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [everestlabs](https://apis.io/servers/everestlabs/everestlabs/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Everestlabs Domain Security](https://apis.io/security/everestlabs/everestlabs-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.everestlabs.ai/)
+- [Support](https://www.everestlabs.ai/contact)
+- [Blog](https://www.everestlabs.ai/insights)
+- [Privacy policy](https://www.everestlabs.ai/privacy-policy)
+- [GitHub](https://github.com/everestlabsai)
+
+## API Evangelist rating
+
+**Kin Score 7.4** — minimal · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/everestlabs/](https://apis.io/providers/everestlabs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for EverestLabs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/everestlabs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
